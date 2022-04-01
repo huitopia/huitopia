@@ -7,9 +7,10 @@
      <img
           src="https://img.shields.io/badge/tistory-FF6A00.svg?style=for-the-badge&logo=tistory&logoColor=white&link=https://cloud-cuckoo-land.tistory.com/">
   </a>
-  
-  ![tistory](https://img.shields.io/badge/tistory-FF6A00.svg?style=for-the-badge&logo=tistory&logoColor=white&url=https://cloud-cuckoo-land.tistory.com/)
-  ![velog](https://img.shields.io/badge/velog-%20C997.svg?style=for-the-badge&logo=velog&logoColor=white&url=https://velog.io/@hui-cloud)
+   <a href="https://velog.io/@hui-cloud">
+     <img
+          https://img.shields.io/badge/velog-%20C997.svg?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@hui-cloud>
+  </a>
   <br>
   ### Skills(Languages & Tools)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
