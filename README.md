@@ -3,6 +3,11 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=003374&height=300&section=header&text=Hello%20world&fontSize=60&fontColor=ffffff)
   <br>
   ### SNS
+  <a href="https://cloud-cuckoo-land.tistory.com/">
+     <img
+          src="https://img.shields.io/badge/tistory-FF6A00.svg?style=for-the-badge&logo=tistory&logoColor=white&link=https://cloud-cuckoo-land.tistory.com/">
+  </a>
+  
   ![tistory](https://img.shields.io/badge/tistory-FF6A00.svg?style=for-the-badge&logo=tistory&logoColor=white&url=https://cloud-cuckoo-land.tistory.com/)
   ![velog](https://img.shields.io/badge/velog-%20C997.svg?style=for-the-badge&logo=velog&logoColor=white&url=https://velog.io/@hui-cloud)
   <br>
