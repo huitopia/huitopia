@@ -7,11 +7,6 @@
      <img
           src="https://img.shields.io/badge/tistory-FF6A00.svg?style=for-the-badge&logo=tistory&logoColor=white&link=https://cloud-cuckoo-land.tistory.com/">
   </a>
-   <a href="https://velog.io/@hui-cloud">
-     <img
-          src="https://img.shields.io/badge/velog-%20C997.svg?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@hui-cloud"
-          >
-  </a>
   <br>
   
   ### 🛠Skills(Languages & Tools)🛠
